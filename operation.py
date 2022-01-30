@@ -31,3 +31,7 @@ def division():
 
 if __name__ == "__main__":
     app.run(debug=True)
+
+# for testing go to postman api 
+# in place of get change acc to your method
+# with /mul i.e name to your link after
